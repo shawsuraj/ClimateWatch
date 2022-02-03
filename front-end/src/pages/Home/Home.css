@@ -1,0 +1,18 @@
+.background {
+    height: 100vh;
+    background-position: center;
+    background-color: #151719;
+}
+
+.appname {
+    font-size: 5vh;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: aliceblue;
+    text-align: center;
+    font-family: "Bradley Hand";
+    font-weight: bolder;
+}
