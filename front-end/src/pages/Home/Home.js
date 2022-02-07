@@ -6,7 +6,7 @@ function Home() {
     return (
         <div class="background">
             <div class="appname">
-                Climate Watch
+                CLIMATE WATCH
             </div>
         </div>
 

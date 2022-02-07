@@ -5,7 +5,7 @@
 }
 
 .appname {
-    font-size: 5vh;
+    font-size: 7.5vh;
     margin: 0;
     position: absolute;
     top: 50%;
@@ -13,6 +13,6 @@
     transform: translate(-50%, -50%);
     color: aliceblue;
     text-align: center;
-    font-family: "Bradley Hand";
+    font-family: "Rowdies";
     font-weight: bolder;
 }
